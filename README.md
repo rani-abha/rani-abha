@@ -1,3 +1,11 @@
+
+  <style>
+    body {
+      background-color: black;
+      color: white; /* Optional: Change text color to white for better readability */
+    }
+  </style>
+  <body>
 ## Hi there 👋, I am Abha
 
 <!--
@@ -36,3 +44,4 @@ Here are some ideas to get you started:
 <p align="center">
    <img   src="https://cdnb.artstation.com/p/assets/images/images/069/553/285/original/pochekunina-yana-2.gif?1700438746" alt="git" height="200" width="300px"  >
 </p>
+</body>
