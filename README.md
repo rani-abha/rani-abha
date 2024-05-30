@@ -1,11 +1,13 @@
 <html>
+  <head>
   <style>
     body {
       background-color: black;
       color: white;
     }
-  </style>
-  <body>
+  </style></head>
+<body>
+  
 ## Hi there 👋, I am Abha
 
 <!--
