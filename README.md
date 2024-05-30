@@ -34,7 +34,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/rani-abha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaval-rathod-276081244" height="30" width="40" /></a>
 
 <p align="center">
-   <img   src="https://cdnb.artstation.com/p/assets/images/images/069/553/285/original/pochekunina-yana-2.gif?1700438746" alt="git" height="200" width="200px"  >
-   <img   src="https://cdnb.artstation.com/p/assets/images/images/069/553/285/original/pochekunina-yana-2.gif?1700438746" alt="git" height="200" width="200px"  >
-   <img   src="https://cdnb.artstation.com/p/assets/images/images/069/553/285/original/pochekunina-yana-2.gif?1700438746" alt="git" height="200" width="200px"  >
+   <img   src="https://cdnb.artstation.com/p/assets/images/images/069/553/285/original/pochekunina-yana-2.gif?1700438746" alt="git" height="200" width="300px"  >
 </p>
