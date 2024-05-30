@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rani-abha&theme=dracula&hide_border=true&border_radius=4.8" alt="GitHub Streak" /></a></p>
 
-## Connect with me:
+## Connect with me
 <p align="left">
 <a href="https://x.com/PurpleAbha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhaval389" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rani-abha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaval-rathod-276081244" height="30" width="40" /></a>
