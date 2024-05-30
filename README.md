@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+   <img   src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="git" height="350" width="350px"  >
+</p>P
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" >
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rani-abha&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
+</p>
+
+## Stats
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rani-abha&theme=dracula&hide_border=true&border_radius=4.8" alt="GitHub Streak" /></a></p>
